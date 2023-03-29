@@ -149,3 +149,8 @@ select{
     border-radius: 5px;
     border: none;
 }
+
+.redes{
+    width: 3%;
+    height: 3%;
+}
